@@ -1,0 +1,17 @@
+p,li{
+font-family: 'Roboto', sans-serif;
+	text-align:justify;
+	letter-spacing:1px;
+	line-height:1.7;
+}
+
+
+
+body{
+	background-image:url("https://cdn.discordapp.com/attachments/308328165472993281/390324333018480664/bg4.png");
+	background-attachment: fixed;
+	width: 800px;
+	margin: 0 auto;
+}
+
+
